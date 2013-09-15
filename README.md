@@ -30,6 +30,10 @@ needs, or use your own.
 Put this repository's contents into `/etc/puppet/modules/tor` and run
 `puppet apply path/to/your/node.pp`.
 
+## TODO
+
+* Generalize to at least work for all flavors of Debian/Ubuntu out of the box
+
 ## License
 
 See: [LICENSE](LICENSE)
