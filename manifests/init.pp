@@ -1,0 +1,3 @@
+class tor {
+  include install
+}

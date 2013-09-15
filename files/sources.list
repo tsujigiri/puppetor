@@ -1,0 +1,8 @@
+deb http://http.us.debian.org/debian squeeze main
+deb-src http://http.us.debian.org/debian squeeze main
+deb http://security.debian.org/ squeeze/updates main
+deb-src http://security.debian.org/ squeeze/updates main
+deb http://http.us.debian.org/debian squeeze-updates main
+deb-src http://http.us.debian.org/debian squeeze-updates main
+
+deb http://deb.torproject.org/torproject.org squeeze main
